@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/raffinato/static/css/main.2f30c4d0.css",
+    "main.js": "/raffinato/static/js/main.15229df0.js",
+    "static/media/Raffinato.png": "/raffinato/static/media/Raffinato.8b72be77fa7cd677ffd2.png",
+    "static/media/fim.png": "/raffinato/static/media/fim.0829a7ae6f0bc15bed51.png",
+    "static/media/inicio.png": "/raffinato/static/media/inicio.5fcf6ee91274e6698d2c.png",
+    "static/media/whatsapp.png": "/raffinato/static/media/whatsapp.c826b0165560636baf0b.png",
+    "static/media/metade.png": "/raffinato/static/media/metade.a206c62f5de616dc1bdf.png",
+    "static/media/github.png": "/raffinato/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/linkedin.png": "/raffinato/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/raffinato/index.html",
+    "main.2f30c4d0.css.map": "/raffinato/static/css/main.2f30c4d0.css.map",
+    "main.15229df0.js.map": "/raffinato/static/js/main.15229df0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f30c4d0.css",
+    "static/js/main.15229df0.js"
+  ]
+}

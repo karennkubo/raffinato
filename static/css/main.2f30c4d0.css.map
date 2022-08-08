@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2f30c4d0.css","mappings":"yEAEA,KAEE,kBAAmB,CADnB,uBAEF","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');\n\nbody {\n  font-family: 'Alice', serif;\n  background: #F36F21;\n}"],"names":[],"sourceRoot":""}
