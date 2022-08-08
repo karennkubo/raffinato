@@ -17,7 +17,7 @@
 </div>
 
 
-<p align="center"> Para ver quantas tentativas a minhoca realiza para alcançar esse objetivo, por favor informe nesse link as medidas (em centímetros) do/a/e: </p>
+<p align="center"> Para ver quantas tentativas a minhoca realiza para alcançar esse objetivo, por favor informe nesse <a href="https://karennkubo.github.io/raffinato/">link</a> as medidas (em centímetros) do/a/e: </p>
 <ul>
   <li>Altura do buraco</li>
   <li>Quantos centímetros a minhoca consegue subir (por tentativa)</li>
