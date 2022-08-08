@@ -1,12 +1,16 @@
 import './App.css';
 import React from 'react';
-import Setup from './components/Setup';
+import Setup from './pages/Setup';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <Setup/>
-    </div>
+    <>
+        <Header/>
+        <Setup />
+        <Footer/>
+    </>
   );
 }
 
